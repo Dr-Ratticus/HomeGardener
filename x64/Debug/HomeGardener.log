@@ -1,0 +1,114 @@
+﻿  main.cpp
+F:\HomeGardener\HomeGardener\main.cpp(15,31): error C3861: 'assetPath': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(27,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(27,8): error C2146: syntax error: missing ';' before identifier 'gameScreen'
+F:\HomeGardener\HomeGardener\main.cpp(28,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(28,1): error C2086: 'int Screen': redefinition
+F:\HomeGardener\HomeGardener\main.cpp(27,1): message : see declaration of 'Screen'
+F:\HomeGardener\HomeGardener\main.cpp(28,8): error C2146: syntax error: missing ';' before identifier 'titleScreen'
+F:\HomeGardener\HomeGardener\main.cpp(34,2): error C3861: 'startGame': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(40,7): error C3861: 'initSDL': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(42,19): error C2065: 'titleScreen': undeclared identifier
+F:\HomeGardener\HomeGardener\main.cpp(42,8): error C3861: 'loadScreen': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(53,2): error C2065: 'gameScreen': undeclared identifier
+F:\HomeGardener\HomeGardener\main.cpp(8,5): error C2374: 'screenWidth': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(8,5): message : see declaration of 'screenWidth'
+F:\HomeGardener\HomeGardener\main.cpp(9,5): error C2374: 'screenHeight': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(9,5): message : see declaration of 'screenHeight'
+F:\HomeGardener\HomeGardener\main.cpp(13,13): error C2374: 'path': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(13,13): message : see declaration of 'path'
+F:\HomeGardener\HomeGardener\main.cpp(14,8): error C2374: 'titleScreenString': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(14,8): message : see declaration of 'titleScreenString'
+F:\HomeGardener\HomeGardener\main.cpp(15,13): error C2374: 'titleScreenPath': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(15,13): message : see declaration of 'titleScreenPath'
+F:\HomeGardener\HomeGardener\main.cpp(15,31): error C3861: 'assetPath': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(20,13): error C2374: 'gameWindow': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(20,13): message : see declaration of 'gameWindow'
+F:\HomeGardener\HomeGardener\main.cpp(21,14): error C2374: 'gameWindowSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(21,14): message : see declaration of 'gameWindowSurface'
+F:\HomeGardener\HomeGardener\main.cpp(22,14): error C2374: 'currentScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(22,14): message : see declaration of 'currentScreenSurface'
+F:\HomeGardener\HomeGardener\main.cpp(23,14): error C2374: 'titleScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(23,14): message : see declaration of 'titleScreenSurface'
+F:\HomeGardener\HomeGardener\main.cpp(27,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(27,1): error C2086: 'int Screen': redefinition
+F:\HomeGardener\HomeGardener\main.cpp(27,1): message : see declaration of 'Screen'
+F:\HomeGardener\HomeGardener\main.cpp(27,8): error C2146: syntax error: missing ';' before identifier 'gameScreen'
+F:\HomeGardener\HomeGardener\main.cpp(28,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(28,1): error C2086: 'int Screen': redefinition
+F:\HomeGardener\HomeGardener\main.cpp(27,1): message : see declaration of 'Screen'
+F:\HomeGardener\HomeGardener\main.cpp(28,8): error C2146: syntax error: missing ';' before identifier 'titleScreen'
+F:\HomeGardener\HomeGardener\main.cpp(33,5): error C2084: function 'int SDL_main(int,char *[])' already has a body
+F:\HomeGardener\HomeGardener\main.cpp(33,5): message : see previous definition of 'SDL_main'
+F:\HomeGardener\HomeGardener\main.cpp(39,5): error C2084: function 'int startGame(void)' already has a body
+F:\HomeGardener\HomeGardener\main.cpp(39,5): message : see previous definition of 'startGame'
+F:\HomeGardener\HomeGardener\main.cpp(40,7): error C3861: 'initSDL': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(42,19): error C2065: 'titleScreen': undeclared identifier
+F:\HomeGardener\HomeGardener\main.cpp(42,8): error C3861: 'loadScreen': identifier not found
+F:\HomeGardener\HomeGardener\main.cpp(53,2): error C2065: 'gameScreen': undeclared identifier
+F:\HomeGardener\HomeGardener\externs.h(9,12): error C2374: 'screenWidth': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(8,5): message : see declaration of 'screenWidth'
+F:\HomeGardener\HomeGardener\externs.h(10,12): error C2374: 'screenHeight': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(9,5): message : see declaration of 'screenHeight'
+F:\HomeGardener\HomeGardener\externs.h(14,20): error C2374: 'path': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(13,13): message : see declaration of 'path'
+F:\HomeGardener\HomeGardener\externs.h(15,15): error C2374: 'titleScreenString': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(14,8): message : see declaration of 'titleScreenString'
+F:\HomeGardener\HomeGardener\externs.h(16,20): error C2374: 'titleScreenPath': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(15,13): message : see declaration of 'titleScreenPath'
+F:\HomeGardener\HomeGardener\externs.h(16,38): error C3861: 'assetPath': identifier not found
+F:\HomeGardener\HomeGardener\externs.h(21,20): error C2374: 'gameWindow': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(20,13): message : see declaration of 'gameWindow'
+F:\HomeGardener\HomeGardener\externs.h(22,21): error C2374: 'gameWindowSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(21,14): message : see declaration of 'gameWindowSurface'
+F:\HomeGardener\HomeGardener\externs.h(23,21): error C2374: 'currentScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(22,14): message : see declaration of 'currentScreenSurface'
+F:\HomeGardener\HomeGardener\externs.h(24,21): error C2374: 'titleScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.cpp(23,14): message : see declaration of 'titleScreenSurface'
+F:\HomeGardener\HomeGardener\externs.h(28,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\externs.h(28,15): error C2146: syntax error: missing ';' before identifier 'gameScreen'
+F:\HomeGardener\HomeGardener\externs.h(28,26): error C2059: syntax error: 'constant'
+F:\HomeGardener\HomeGardener\externs.h(29,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\externs.h(29,15): error C2146: syntax error: missing ';' before identifier 'titleScreen'
+F:\HomeGardener\HomeGardener\externs.h(29,45): error C2143: syntax error: missing ')' before ','
+F:\HomeGardener\HomeGardener\externs.h(29,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\externs.h(29,27): error C2040: 'titleScreenSurface': 'int' differs in levels of indirection from 'SDL_Surface *'
+F:\HomeGardener\HomeGardener\externs.h(29,62): error C2059: syntax error: ')'
+F:\HomeGardener\HomeGardener\externs.h(29,63): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\externs.h(29,47): error C2040: 'titleScreenPath': 'int' differs in levels of indirection from 'const char *'
+F:\HomeGardener\HomeGardener\main.h(31,9): error C3861: 'assetPath': identifier not found
+F:\HomeGardener\HomeGardener\main.h(49,24): error C2146: syntax error: missing ')' before identifier 'newScreen'
+F:\HomeGardener\HomeGardener\main.h(78,6): error C2374: 'loadScreen': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\main.h(49,6): message : see declaration of 'loadScreen'
+F:\HomeGardener\HomeGardener\main.h(78,24): error C2146: syntax error: missing ')' before identifier 'newScreen'
+F:\HomeGardener\HomeGardener\main.h(78,35): error C2143: syntax error: missing ';' before '{'
+F:\HomeGardener\HomeGardener\main.h(78,35): error C2447: '{': missing function header (old-style formal list?)
+F:\HomeGardener\HomeGardener\main.cpp(8,5): error C2374: 'screenWidth': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(9,12): message : see declaration of 'screenWidth'
+F:\HomeGardener\HomeGardener\main.cpp(9,5): error C2374: 'screenHeight': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(10,12): message : see declaration of 'screenHeight'
+F:\HomeGardener\HomeGardener\main.cpp(13,13): error C2374: 'path': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(14,20): message : see declaration of 'path'
+F:\HomeGardener\HomeGardener\main.cpp(14,8): error C2374: 'titleScreenString': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(15,15): message : see declaration of 'titleScreenString'
+F:\HomeGardener\HomeGardener\main.cpp(15,13): error C2374: 'titleScreenPath': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(16,20): message : see declaration of 'titleScreenPath'
+F:\HomeGardener\HomeGardener\main.cpp(20,13): error C2374: 'gameWindow': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(21,20): message : see declaration of 'gameWindow'
+F:\HomeGardener\HomeGardener\main.cpp(21,14): error C2374: 'gameWindowSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(22,21): message : see declaration of 'gameWindowSurface'
+F:\HomeGardener\HomeGardener\main.cpp(22,14): error C2374: 'currentScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(23,21): message : see declaration of 'currentScreenSurface'
+F:\HomeGardener\HomeGardener\main.cpp(23,14): error C2374: 'titleScreenSurface': redefinition; multiple initialization
+F:\HomeGardener\HomeGardener\externs.h(24,21): message : see declaration of 'titleScreenSurface'
+F:\HomeGardener\HomeGardener\main.cpp(27,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(27,1): error C2086: 'int Screen': redefinition
+F:\HomeGardener\HomeGardener\main.cpp(27,1): message : see declaration of 'Screen'
+F:\HomeGardener\HomeGardener\main.cpp(27,8): error C2146: syntax error: missing ';' before identifier 'gameScreen'
+F:\HomeGardener\HomeGardener\main.cpp(28,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+F:\HomeGardener\HomeGardener\main.cpp(28,1): error C2086: 'int Screen': redefinition
+F:\HomeGardener\HomeGardener\main.cpp(27,1): message : see declaration of 'Screen'
+F:\HomeGardener\HomeGardener\main.cpp(28,8): error C2146: syntax error: missing ';' before identifier 'titleScreen'
+F:\HomeGardener\HomeGardener\main.cpp(34,2): error C2065: 'startGame': undeclared identifier
+F:\HomeGardener\HomeGardener\main.cpp(42,19): error C2065: 'titleScreen': undeclared identifier
+F:\HomeGardener\HomeGardener\main.cpp(53,2): error C2065: 'gameScreen': undeclared identifier
